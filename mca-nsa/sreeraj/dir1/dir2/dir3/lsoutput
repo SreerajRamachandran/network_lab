@@ -1,0 +1,21 @@
+am.txt
+file1.txt
+file2.txt
+file3.txt
+hello.txt
+lsoutput
+lsoutput.txt
+new.txt
+num.txt
+sr.txt
+total 40
+-rw-rw-r-- 1 exam exam  25 Mar 22 09:38 am.txt
+-rw-rw-r-- 1 exam exam   5 Mar 22 10:16 file1.txt
+-rw-rw-r-- 1 exam exam   5 Mar 22 10:42 file2.txt
+-rw-rw-r-- 1 exam exam   8 Mar 22 10:32 file3.txt
+-rw-rw-r-- 1 exam exam  18 Mar 22 09:37 hello.txt
+-rw-rw-r-- 1 exam exam  92 Mar 22 10:50 lsoutput
+-rw-rw-r-- 1 exam exam 303 Mar 22 10:04 lsoutput.txt
+-rw-rw-r-- 1 exam exam   5 Mar 22 10:44 new.txt
+-rw-rw-r-- 1 exam exam  23 Mar 22 09:57 num.txt
+-rw-rw-r-- 1 exam exam   7 Mar 22 09:42 sr.txt
